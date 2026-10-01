@@ -1,4 +1,4 @@
-"use client";
+"use client";\nimport "./overview.css";
 import {useState} from "react";
 const S=["Capture","Build","Validate","Compare","Resolve","Package","Track"];
 const sub=["Establish the loss","Create the scope","Prove the file","Explain the variance","Close the gaps","Deliver beautifully","Stay ahead"];
